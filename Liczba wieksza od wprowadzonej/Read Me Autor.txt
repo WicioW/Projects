@@ -1,0 +1,6 @@
+Zadanie:
+Napisz program, który dla ka¿dej liczby podanej przez u¿ytkownika,
+znajdzie liczbê wiêksz¹ sk³adaj¹c¹ siê z tych samych cyfr.
+U¿ytkownik powinien mieæ mo¿liwoœæ podania kilku liczb po przecinku.
+Program powinien wykrywaæ duplikaty podane przez usera i nie liczyæ
+tych samych liczb jeszcze raz. Pamiêtaj, ¿e liczby mog¹ byæ du¿e.

@@ -1,0 +1,50 @@
+#include "stdafx.h"
+#include <iostream>
+#include "Obliczenia.h"
+#include <cstdlib>
+
+using namespace std;
+
+int main()
+{
+	Obliczenia o;
+	o.policz();
+	
+	for (;;)
+	{dsa
+		cout << "Program liczacy linie kodu programu." << endl;
+		cout << "Linie kodu komentarzy sa NIE liczone." << endl<<endl;
+		cout << "Wybierz ( wprowadz numer): " << endl;
+		cout << "1. Podaj ilosc WSZYSTKICH linii kodu" << endl;
+		cout << "2. Podaj ilosc linii kodu, \n   z pominieciem linii w ktorych sa same nawiasy lub entery" << endl;
+		cout << "3. Zamknij" << endl << endl;
+		cout << "WYBOR: ";
+//bzdury1
+//bzdury2
+//bzdury3
+		int wybor;
+		cin >> wybor; //cos tam
+		cout << endl; //cos tam2
+/*
+kopiernik byl kobieta
+ziemia jest plaska
+nie wolno krasc
+*/
+		if (!cin)
+		{
+			cin.clear();
+			cin.sync();
+		}
+		
+		switch (wybor)
+		{
+		case 1: o.podaj_wszystkie(); break;
+		case 2: o.podaj_bez(); break;
+		case 3: exit(0); break;
+		default: cout << "Wybrano zly numer!" << endl; getchar();
+		}
+		getchar(); getchar();
+		system("cls");
+	}
+    return 0;
+}

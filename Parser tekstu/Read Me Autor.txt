@@ -1,0 +1,8 @@
+Zaimplementuj prosty parser tekstu. Parser powinien czytaæ stronê internetow¹ z pliku lub adresu URL.
+U¿ytkownik powinien mieæ mo¿liwoœæ wyboru co jest otwierane.
+Parser ma za zaadnie znaleŸæ wszystkie linki na stronie(link jest w tagu <a href="link"</a>),
+policzyæ je i wyœwietliæ u¿ytkowniki je¿eli tego zechce.
+Po znalezieniu wszystkich linków, poka¿ ich iloœæ i zapytaj czy chce je wszystkie zobaczyæ.
+Zmienne pobierane przez usera mog¹ byæ na sztywno ustawione w pliku konfiguracyjnym(tekstowym).
+Proponujê stworzyæ dwie klasy WebPageReader i FileReader oraz AbstractReader z abstrakcyjn¹ metod¹ read,
+która zostanie nadpisana w ka¿dej implementacji readera.

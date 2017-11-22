@@ -1,0 +1,6 @@
+5
+spodnie,jeansy,xl,179.9,niebieskie,H&M,2
+akcesoria,okulary,m,120,zielone,Rajbany,10
+spodnie,dresowe,l,200.12,czerwone,Adidas,8
+koszulki,t-shirt,s,69.69,czarne,Nike,111
+spodnie,dresowe,l,112,czerwone,4f,12

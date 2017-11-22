@@ -1,0 +1,6 @@
+Zadanie:
+Napisz program, który policzy linie kodu w Javie. Pamiêtaj, aby nie liczyæ
+kodu komentarzy. W javie kod mo¿emy komentowaæ na dwa sposoby: // oraz
+/* komentarz */ . Pamiêtaj,¿e druga opcja mo¿e byæ wielolinijkowa. Daj
+u¿ytkownikowi mo¿liwoœæ czy chce policzyæ wszystkie linie (entery,nawiasy itd.),
+czy chce pomin¹æ linie tylko z nawiasami czy puste.

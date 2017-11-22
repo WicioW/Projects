@@ -1,0 +1,7 @@
+Obiektowy program napisany w C++.
+Program tworzy w konsoli Menu, w którym u¿ytkownik ma do wyboru wiele opcji.
+U¿ytkownik mo¿e dodawaæ i usuwaæ przedmioty z magazynu.
+U¿ytkownik mo¿e te¿ przeszukiwaæ magazyn po ró¿nych cechach przedmiotów. 
+Stan magazynu zapisywany jest w pliku tekstowym przed zamkniêciem programu.
+Ten sam plik jest otwierany przy uruchamianiu programu.
+Jeœli plik nie istnieje, to program go tworzy by zapisaæ w nim wprowadzone dane.
